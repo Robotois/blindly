@@ -1,0 +1,427 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "316",
+               "short_name" : "316",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Las Bodas de Figaro",
+               "short_name" : "Las Bodas de Figaro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Miguel Hidalgo",
+               "short_name" : "Miguel Hidalgo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tláhuac",
+               "short_name" : "Tláhuac",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13200",
+               "short_name" : "13200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Las Bodas de Figaro 316, Miguel Hidalgo, 13200 Ciudad de México, CDMX, México",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.2898925,
+               "lng" : -99.0439669
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2912414802915,
+                  "lng" : -99.04261791970849
+               },
+               "southwest" : {
+                  "lat" : 19.2885435197085,
+                  "lng" : -99.0453158802915
+               }
+            }
+         },
+         "place_id" : "ChIJr6OzehsDzoUR2HMxGtOE65s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miguel Hidalgo",
+               "short_name" : "Miguel Hidalgo",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tláhuac",
+               "short_name" : "Tláhuac",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13200",
+               "short_name" : "13200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Miguel Hidalgo, 13200 Ciudad de México, CDMX, México",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2992944,
+                  "lng" : -99.0382972
+               },
+               "southwest" : {
+                  "lat" : 19.2720364,
+                  "lng" : -99.0530737
+               }
+            },
+            "location" : {
+               "lat" : 19.2859752,
+               "lng" : -99.04743449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2992944,
+                  "lng" : -99.0382972
+               },
+               "southwest" : {
+                  "lat" : 19.2720364,
+                  "lng" : -99.0530737
+               }
+            }
+         },
+         "place_id" : "ChIJcWSWhRoDzoURfKFF1RNCvt4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ciudad de México, CDMX, México",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            },
+            "location" : {
+               "lat" : 19.4326077,
+               "lng" : -99.133208
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.9604482
+               },
+               "southwest" : {
+                  "lat" : 19.1887101,
+                  "lng" : -99.3267771
+               }
+            }
+         },
+         "place_id" : "ChIJB3UJ2yYAzoURQeheJnYQBlQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "13200",
+               "short_name" : "13200",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "La Draga",
+               "short_name" : "La Draga",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tláhuac",
+               "short_name" : "Tláhuac",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Draga, 13200 Ciudad de México, CDMX, México",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.299333,
+                  "lng" : -99.03837799999999
+               },
+               "southwest" : {
+                  "lat" : 19.2720274,
+                  "lng" : -99.05313459999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2817617,
+               "lng" : -99.04328869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.299333,
+                  "lng" : -99.03837799999999
+               },
+               "southwest" : {
+                  "lat" : 19.2720274,
+                  "lng" : -99.05313459999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1aP3sxoDzoURPTvW0jF0mFo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tláhuac",
+               "short_name" : "Tláhuac",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valle de Chalco Solidaridad",
+               "short_name" : "Valle de Chalco Solidaridad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tláhuac, CDMX, México",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.3271336,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.210571,
+                  "lng" : -99.06896669999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2990233,
+               "lng" : -99.0436467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3271336,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.210571,
+                  "lng" : -99.06896669999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ8LUUjgDzoURP24JIOFAT5s",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "CDMX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cdad. de México, México",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.0482366,
+                  "lng" : -99.36492419999999
+               }
+            },
+            "location" : {
+               "lat" : 19.2464696,
+               "lng" : -99.10134979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5927571,
+                  "lng" : -98.94030269999999
+               },
+               "southwest" : {
+                  "lat" : 19.0482366,
+                  "lng" : -99.36492419999999
+               }
+            }
+         },
+         "place_id" : "ChIJJyk1sTYAzoURW4rR6E6e_d4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zona Metropolitana del Valle de México",
+               "short_name" : "Zona Metropolitana del Valle de México",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zona Metropolitana del Valle de México, México",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.0682618,
+                  "lng" : -98.5968666
+               },
+               "southwest" : {
+                  "lat" : 18.9353397,
+                  "lng" : -99.6498895
+               }
+            },
+            "location" : {
+               "lat" : 19.5337747,
+               "lng" : -99.0128926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.0682618,
+                  "lng" : -98.5968666
+               },
+               "southwest" : {
+                  "lat" : 18.9353397,
+                  "lng" : -99.6498895
+               }
+            }
+         },
+         "place_id" : "ChIJ0f3SX4Pv0YUR1Ko4LNnRKW8",
+         "types" : [ "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "México",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "México",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7187629,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7176396,
+                  "lng" : -86.71461979999999
+               },
+               "southwest" : {
+                  "lat" : 14.5345483,
+                  "lng" : -118.3636866
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

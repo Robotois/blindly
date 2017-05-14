@@ -1,0 +1,4 @@
+blindly@0.0.1 /home/yovany/Projects/react-native-learning/blindly
+└─┬ UNMET PEER DEPENDENCY react@15.5.4
+  └── prop-types@15.5.9 
+
